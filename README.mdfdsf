@@ -1,1 +1,4 @@
-sdfdsfdvfdvfd
+x=12
+y=31243
+z=y-x
+print(z)
